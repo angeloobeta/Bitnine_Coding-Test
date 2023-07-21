@@ -62,4 +62,4 @@ Notes:
    used in the Fibonacci calculation.
 3. The program takes care of freeing dynamically allocated memory after the computation.
 
-Feel free to contact [Your Name/Email/Contact Info] for any questions or issues related to this code.
+Feel free to contact angeloobeta@hotmail.com for any questions or issues related to this code.
